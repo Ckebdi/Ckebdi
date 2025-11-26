@@ -22,7 +22,7 @@ Actuellement en Master Data Management à **Aivancity** et en alternance chez **
 * **Tech :** RASA (NLU & Core), Python, API REST.
 * **Impact :** Gestion autonome de **400 visiteurs/mois** et automatisation du support de niveau 1.
 
-#### 2. [Automatisation de Workflow Email]
+#### 2. [Automatisation de Workflow Email](https://github.com/Ckebdi/email-automation-demo)
 *Script d'optimisation pour cabinet comptable.*
 * **Tech :** Python, IMAP/SMTP, Scripting.
 * **Impact :** Nettoyage automatique de 10 boîtes mail et gain de **+8h/semaine** grâce au tri des pièces jointes.
