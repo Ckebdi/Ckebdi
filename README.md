@@ -107,5 +107,5 @@ Mon parcours unique combine une maîtrise linguistique *(Sorbonne)* et une exper
 ---
 
 <div align="center">
-  <i>✨ "De la littérature aux algorithmes — les mots restent au cœur de tout." ✨</i>
+  <i>✨ "De la littérature aux algorithmes, les mots restent au cœur de tout." ✨</i>
 </div>
