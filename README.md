@@ -14,7 +14,7 @@
 
 ## 🤖 À propos de moi
 
-Développeuse IA et Data, issue d'un parcours littéraire (Sorbonne) puis technique : Bachelor Développeur IA & Data Sciences (EPSI), diplômée du Master Data Management (Aivancity), et bientôt un Master of Science Artificial Intelligence for Business en alternance.
+Développeuse IA et Data, issue d'un parcours littéraire (Sorbonne) puis technique : Bachelor Développeur IA & Data Sciences (EPSI), diplômée du Master Data Management (Aivancity).
 J'ai réalisé mon alternance chez **EPIE Formation** (janvier 2025 à septembre 2026), où j'ai automatisé des tâches répétitives et construit des outils internes.
 
 > 🎯 Mon objectif : comprendre, automatiser intelligemment et rendre la technologie accessible.
